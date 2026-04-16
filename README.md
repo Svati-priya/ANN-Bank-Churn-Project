@@ -14,7 +14,6 @@ The goal of this project is to predict whether a bank customer is likely to leav
 - Built an ANN model using TensorFlow/Keras
 - Used sigmoid activation
 - Used batch size = 25 and epochs = 10
-- Achieved around 81% accuracy
 
 ## Solution
 I converted the trained ANN model into an interactive Streamlit app where users can enter customer details and get churn prediction and churn probability.
@@ -29,8 +28,8 @@ I converted the trained ANN model into an interactive Streamlit app where users 
 - Joblib
 
 ## 📊 Model Performance
-- Accuracy: 85.67%
-- Loss: 0.34
+- Accuracy: 81.95%
+- Loss: 0.41
 - Epochs: 10
 - Batch Size: 25
 - Activation Function: Sigmoid
