@@ -18,10 +18,10 @@ The goal of this project is to predict whether a bank customer is likely to leav
 ## Solution
 I converted the trained ANN model into an interactive Streamlit app where users can enter customer details and get churn prediction and churn probability.
 
-## Tech Stack
+## 🛠 Tech Stack
 - Python
 - Streamlit
-- TensorFlow
+- TensorFlow / Keras
 - Pandas
 - NumPy
 - Scikit-learn
