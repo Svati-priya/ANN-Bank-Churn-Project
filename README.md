@@ -28,6 +28,14 @@ I converted the trained ANN model into an interactive Streamlit app where users 
 - Scikit-learn
 - Joblib
 
+## 📊 Model Performance
+- Accuracy: 85.67%
+- Loss: 0.34
+- Epochs: 10
+- Batch Size: 25
+- Activation Function: Sigmoid
+- Optimizer: Adam
+
 ## How to Run Locally
 ```bash
 pip install -r requirements.txt
