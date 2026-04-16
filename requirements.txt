@@ -7,3 +7,4 @@ scikit-learn
 joblib
 pydantic
 h5py
+streamlit
